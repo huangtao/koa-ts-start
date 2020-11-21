@@ -1,0 +1,24 @@
+{
+  "httpPort": 3000,
+  "httpsPort": 3001,
+  "debug": true,
+  "SECRET": "keykeykey",
+  "tokenDays": 30,
+  "mysql": {
+    "host": "127.0.0.1",
+    "port": 3306,
+    "user": "root",
+    "password": "ac27104cb6df84f0a27c439e61207ea0",
+    "db": "demo"
+  },
+  "aliSMS": {
+    "accessKeyId": "",
+    "accessSecret": "",
+    "SignName": "",
+    "TemplateCode": ""
+  },
+  "https": {
+    "key": "./https/4516698_cf.ardentdeco.com.key",
+    "cert": "./https/4516698_cf.ardentdeco.com.pem"
+  }
+}
